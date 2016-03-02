@@ -1,0 +1,7 @@
+Team 3 Ideas
+
+1. Lead poisoning rates in Baltimore, correlated with when the homes were built and the income of the families
+
+2. Juvenile convictions in different district court jurisdictions around Maryland, or in district courts vs. federal circuit courts
+
+3. Comparing state gun laws to the rates of homicide or injury by firearms
